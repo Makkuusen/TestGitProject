@@ -3,7 +3,6 @@ public class mainTest {
         System.out.println("Hello World!");
         System.out.println("lol");
 <<<<<<< HEAD
-<<<<<<< HEAD
 
         System.out.println("Skriver på min laptop");
         
@@ -12,8 +11,6 @@ public class mainTest {
         System.out.println("åäö");
         
         System.out.println("åäö");
-=======
->>>>>>> parent of 6c1c730... En rad
 =======
 >>>>>>> parent of 6c1c730... En rad
     }
