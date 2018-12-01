@@ -15,15 +15,21 @@
         <entry file="file://$PROJECT_DIR$/src/mainTest.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="144">
               <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
 =======
+=======
+>>>>>>> parent of 6c1c730... En rad
             <state relative-caret-position="32">
               <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
               <folding>
                 <element signature="e#67#68#0" expanded="true" />
                 <element signature="e#103#104#0" expanded="true" />
               </folding>
+<<<<<<< HEAD
+>>>>>>> parent of 6c1c730... En rad
+=======
 >>>>>>> parent of 6c1c730... En rad
             </state>
           </provider>
@@ -76,9 +82,12 @@
   </component>
   <component name="PropertiesComponent">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543622673636" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
 =======
+=======
+>>>>>>> parent of 6c1c730... En rad
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543597332469" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
 >>>>>>> parent of 6c1c730... En rad
@@ -144,15 +153,21 @@
     <entry file="file://$PROJECT_DIR$/src/mainTest.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="144">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
 =======
+=======
+>>>>>>> parent of 6c1c730... En rad
         <state relative-caret-position="32">
           <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#103#104#0" expanded="true" />
           </folding>
+<<<<<<< HEAD
+>>>>>>> parent of 6c1c730... En rad
+=======
 >>>>>>> parent of 6c1c730... En rad
         </state>
       </provider>
