@@ -10,6 +10,8 @@ public class mainTest {
         System.out.println("åäö");
         
         System.out.println("åäö");
+        
+        System.out.println("Testar en sidetrack!");
 
     }
 }
