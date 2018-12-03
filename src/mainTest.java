@@ -7,8 +7,5 @@ public class mainTest {
         
         System.out.println("Lol");
 
-        System.out.println("åäö");
-        
-        System.out.println("åäö");
     }
 }
